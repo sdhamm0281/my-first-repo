@@ -8,3 +8,5 @@ students = ['Alice', 'Bob', 'Carlos', 'Diana']
 
 for student in students:
     print(greet(student))
+print()
+print(f"Total students greeted: {len(students)}")
