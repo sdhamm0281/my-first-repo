@@ -10,3 +10,4 @@ for student in students:
     print(greet(student))
 print()
 print(f"Total students greeted: {len(students)}")
+print("sensor not attached")    
